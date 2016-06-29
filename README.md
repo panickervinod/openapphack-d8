@@ -1,4 +1,4 @@
-# openapphack-d8
+# OpenAppHack-D8
 OpenAppHack is a distribution of Drupal that will help organize offline hackathons on RPI Clusters.  
 
 Top Level Features  
