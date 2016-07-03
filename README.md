@@ -8,3 +8,5 @@ Top Level Features
 - Offline update of code to code hosting platforms after the hackathon 
 - Publish event updated end of an event. 
 - Can be Deployed to OpenAppHackRPis
+- 
+Please note this project is in Active Development.
